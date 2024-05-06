@@ -1,0 +1,7 @@
+C:\Users\Zsaigal\source\repos\AccountingSoftwareAssignment\bin\Debug\AccountingSoftwareAssignment.exe.config
+C:\Users\Zsaigal\source\repos\AccountingSoftwareAssignment\bin\Debug\AccountingSoftwareAssignment.exe
+C:\Users\Zsaigal\source\repos\AccountingSoftwareAssignment\bin\Debug\AccountingSoftwareAssignment.pdb
+C:\Users\Zsaigal\source\repos\AccountingSoftwareAssignment\obj\Debug\AccountingSoftwareAssignment.csproj.AssemblyReference.cache
+C:\Users\Zsaigal\source\repos\AccountingSoftwareAssignment\obj\Debug\AccountingSoftwareAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Zsaigal\source\repos\AccountingSoftwareAssignment\obj\Debug\AccountingSoftwareAssignment.exe
+C:\Users\Zsaigal\source\repos\AccountingSoftwareAssignment\obj\Debug\AccountingSoftwareAssignment.pdb
