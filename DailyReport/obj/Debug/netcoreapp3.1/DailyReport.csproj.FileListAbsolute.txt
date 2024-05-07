@@ -1,0 +1,13 @@
+C:\Users\Zsaigal\source\repos\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.exe
+C:\Users\Zsaigal\source\repos\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.deps.json
+C:\Users\Zsaigal\source\repos\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.json
+C:\Users\Zsaigal\source\repos\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.dev.json
+C:\Users\Zsaigal\source\repos\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\Zsaigal\source\repos\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\Zsaigal\source\repos\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.AssemblyReference.cache
+C:\Users\Zsaigal\source\repos\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfoInputs.cache
+C:\Users\Zsaigal\source\repos\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfo.cs
+C:\Users\Zsaigal\source\repos\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\Zsaigal\source\repos\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\Zsaigal\source\repos\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\Zsaigal\source\repos\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.genruntimeconfig.cache
