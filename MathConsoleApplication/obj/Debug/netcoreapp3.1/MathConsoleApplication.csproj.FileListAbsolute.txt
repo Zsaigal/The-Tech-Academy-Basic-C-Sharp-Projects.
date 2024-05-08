@@ -1,0 +1,13 @@
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\obj\Debug\netcoreapp3.1\MathConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\obj\Debug\netcoreapp3.1\MathConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\obj\Debug\netcoreapp3.1\MathConsoleApplication.AssemblyInfo.cs
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\obj\Debug\netcoreapp3.1\MathConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\bin\Debug\netcoreapp3.1\MathConsoleApplication.exe
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\bin\Debug\netcoreapp3.1\MathConsoleApplication.deps.json
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\bin\Debug\netcoreapp3.1\MathConsoleApplication.runtimeconfig.json
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\bin\Debug\netcoreapp3.1\MathConsoleApplication.runtimeconfig.dev.json
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\bin\Debug\netcoreapp3.1\MathConsoleApplication.dll
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\bin\Debug\netcoreapp3.1\MathConsoleApplication.pdb
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\obj\Debug\netcoreapp3.1\MathConsoleApplication.dll
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\obj\Debug\netcoreapp3.1\MathConsoleApplication.pdb
+C:\Users\Zsaigal\source\repos\MathConsoleApplication\obj\Debug\netcoreapp3.1\MathConsoleApplication.genruntimeconfig.cache
