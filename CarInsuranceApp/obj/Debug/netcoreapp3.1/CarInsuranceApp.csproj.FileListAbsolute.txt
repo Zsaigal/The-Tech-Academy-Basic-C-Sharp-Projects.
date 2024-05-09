@@ -1,0 +1,13 @@
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\bin\Debug\netcoreapp3.1\CarInsuranceApp.exe
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\bin\Debug\netcoreapp3.1\CarInsuranceApp.deps.json
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\bin\Debug\netcoreapp3.1\CarInsuranceApp.runtimeconfig.json
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\bin\Debug\netcoreapp3.1\CarInsuranceApp.runtimeconfig.dev.json
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\bin\Debug\netcoreapp3.1\CarInsuranceApp.dll
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\bin\Debug\netcoreapp3.1\CarInsuranceApp.pdb
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\obj\Debug\netcoreapp3.1\CarInsuranceApp.csproj.AssemblyReference.cache
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\obj\Debug\netcoreapp3.1\CarInsuranceApp.AssemblyInfoInputs.cache
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\obj\Debug\netcoreapp3.1\CarInsuranceApp.AssemblyInfo.cs
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\obj\Debug\netcoreapp3.1\CarInsuranceApp.csproj.CoreCompileInputs.cache
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\obj\Debug\netcoreapp3.1\CarInsuranceApp.dll
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\obj\Debug\netcoreapp3.1\CarInsuranceApp.pdb
+C:\Users\Zsaigal\source\repos\CarInsuranceApp\obj\Debug\netcoreapp3.1\CarInsuranceApp.genruntimeconfig.cache
