@@ -1,0 +1,12 @@
+C:\Users\Zsaigal\source\repos\IncomeComparisonProgram\bin\Debug\netcoreapp3.1\IncomeComparisonProgram.exe
+C:\Users\Zsaigal\source\repos\IncomeComparisonProgram\bin\Debug\netcoreapp3.1\IncomeComparisonProgram.deps.json
+C:\Users\Zsaigal\source\repos\IncomeComparisonProgram\bin\Debug\netcoreapp3.1\IncomeComparisonProgram.runtimeconfig.json
+C:\Users\Zsaigal\source\repos\IncomeComparisonProgram\bin\Debug\netcoreapp3.1\IncomeComparisonProgram.runtimeconfig.dev.json
+C:\Users\Zsaigal\source\repos\IncomeComparisonProgram\bin\Debug\netcoreapp3.1\IncomeComparisonProgram.dll
+C:\Users\Zsaigal\source\repos\IncomeComparisonProgram\bin\Debug\netcoreapp3.1\IncomeComparisonProgram.pdb
+C:\Users\Zsaigal\source\repos\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.AssemblyInfoInputs.cache
+C:\Users\Zsaigal\source\repos\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.AssemblyInfo.cs
+C:\Users\Zsaigal\source\repos\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\Zsaigal\source\repos\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.dll
+C:\Users\Zsaigal\source\repos\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.pdb
+C:\Users\Zsaigal\source\repos\IncomeComparisonProgram\obj\Debug\netcoreapp3.1\IncomeComparisonProgram.genruntimeconfig.cache
