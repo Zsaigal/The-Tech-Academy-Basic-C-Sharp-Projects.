@@ -1,0 +1,12 @@
+C:\Users\Zsaigal\source\repos\Shipping-quoteApp\bin\Debug\netcoreapp3.1\Shipping-quoteApp.exe
+C:\Users\Zsaigal\source\repos\Shipping-quoteApp\bin\Debug\netcoreapp3.1\Shipping-quoteApp.deps.json
+C:\Users\Zsaigal\source\repos\Shipping-quoteApp\bin\Debug\netcoreapp3.1\Shipping-quoteApp.runtimeconfig.json
+C:\Users\Zsaigal\source\repos\Shipping-quoteApp\bin\Debug\netcoreapp3.1\Shipping-quoteApp.runtimeconfig.dev.json
+C:\Users\Zsaigal\source\repos\Shipping-quoteApp\bin\Debug\netcoreapp3.1\Shipping-quoteApp.dll
+C:\Users\Zsaigal\source\repos\Shipping-quoteApp\bin\Debug\netcoreapp3.1\Shipping-quoteApp.pdb
+C:\Users\Zsaigal\source\repos\Shipping-quoteApp\obj\Debug\netcoreapp3.1\Shipping-quoteApp.AssemblyInfoInputs.cache
+C:\Users\Zsaigal\source\repos\Shipping-quoteApp\obj\Debug\netcoreapp3.1\Shipping-quoteApp.AssemblyInfo.cs
+C:\Users\Zsaigal\source\repos\Shipping-quoteApp\obj\Debug\netcoreapp3.1\Shipping-quoteApp.csproj.CoreCompileInputs.cache
+C:\Users\Zsaigal\source\repos\Shipping-quoteApp\obj\Debug\netcoreapp3.1\Shipping-quoteApp.dll
+C:\Users\Zsaigal\source\repos\Shipping-quoteApp\obj\Debug\netcoreapp3.1\Shipping-quoteApp.pdb
+C:\Users\Zsaigal\source\repos\Shipping-quoteApp\obj\Debug\netcoreapp3.1\Shipping-quoteApp.genruntimeconfig.cache
