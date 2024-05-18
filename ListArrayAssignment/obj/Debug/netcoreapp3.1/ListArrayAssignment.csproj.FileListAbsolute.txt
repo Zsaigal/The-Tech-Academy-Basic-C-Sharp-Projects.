@@ -1,0 +1,12 @@
+C:\Users\Zsaigal\source\repos\ListArrayAssignment\bin\Debug\netcoreapp3.1\ListArrayAssignment.exe
+C:\Users\Zsaigal\source\repos\ListArrayAssignment\bin\Debug\netcoreapp3.1\ListArrayAssignment.deps.json
+C:\Users\Zsaigal\source\repos\ListArrayAssignment\bin\Debug\netcoreapp3.1\ListArrayAssignment.runtimeconfig.json
+C:\Users\Zsaigal\source\repos\ListArrayAssignment\bin\Debug\netcoreapp3.1\ListArrayAssignment.runtimeconfig.dev.json
+C:\Users\Zsaigal\source\repos\ListArrayAssignment\bin\Debug\netcoreapp3.1\ListArrayAssignment.dll
+C:\Users\Zsaigal\source\repos\ListArrayAssignment\bin\Debug\netcoreapp3.1\ListArrayAssignment.pdb
+C:\Users\Zsaigal\source\repos\ListArrayAssignment\obj\Debug\netcoreapp3.1\ListArrayAssignment.AssemblyInfoInputs.cache
+C:\Users\Zsaigal\source\repos\ListArrayAssignment\obj\Debug\netcoreapp3.1\ListArrayAssignment.AssemblyInfo.cs
+C:\Users\Zsaigal\source\repos\ListArrayAssignment\obj\Debug\netcoreapp3.1\ListArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Zsaigal\source\repos\ListArrayAssignment\obj\Debug\netcoreapp3.1\ListArrayAssignment.dll
+C:\Users\Zsaigal\source\repos\ListArrayAssignment\obj\Debug\netcoreapp3.1\ListArrayAssignment.pdb
+C:\Users\Zsaigal\source\repos\ListArrayAssignment\obj\Debug\netcoreapp3.1\ListArrayAssignment.genruntimeconfig.cache
