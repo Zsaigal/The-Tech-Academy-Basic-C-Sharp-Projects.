@@ -1,0 +1,13 @@
+C:\Users\Zsaigal\source\repos\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.exe
+C:\Users\Zsaigal\source\repos\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.deps.json
+C:\Users\Zsaigal\source\repos\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.runtimeconfig.json
+C:\Users\Zsaigal\source\repos\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.runtimeconfig.dev.json
+C:\Users\Zsaigal\source\repos\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.dll
+C:\Users\Zsaigal\source\repos\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.pdb
+C:\Users\Zsaigal\source\repos\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.csproj.AssemblyReference.cache
+C:\Users\Zsaigal\source\repos\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.AssemblyInfoInputs.cache
+C:\Users\Zsaigal\source\repos\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.AssemblyInfo.cs
+C:\Users\Zsaigal\source\repos\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\Zsaigal\source\repos\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.dll
+C:\Users\Zsaigal\source\repos\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.pdb
+C:\Users\Zsaigal\source\repos\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.genruntimeconfig.cache
