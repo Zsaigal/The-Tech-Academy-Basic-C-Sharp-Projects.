@@ -1,0 +1,13 @@
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\bin\Debug\netcoreapp3.1\TryCatchAssignment2.exe
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\bin\Debug\netcoreapp3.1\TryCatchAssignment2.deps.json
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\bin\Debug\netcoreapp3.1\TryCatchAssignment2.runtimeconfig.json
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\bin\Debug\netcoreapp3.1\TryCatchAssignment2.runtimeconfig.dev.json
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\bin\Debug\netcoreapp3.1\TryCatchAssignment2.dll
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\bin\Debug\netcoreapp3.1\TryCatchAssignment2.pdb
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\obj\Debug\netcoreapp3.1\TryCatchAssignment2.csproj.AssemblyReference.cache
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\obj\Debug\netcoreapp3.1\TryCatchAssignment2.AssemblyInfoInputs.cache
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\obj\Debug\netcoreapp3.1\TryCatchAssignment2.AssemblyInfo.cs
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\obj\Debug\netcoreapp3.1\TryCatchAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\obj\Debug\netcoreapp3.1\TryCatchAssignment2.dll
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\obj\Debug\netcoreapp3.1\TryCatchAssignment2.pdb
+C:\Users\Zsaigal\source\repos\TryCatchAssignment2\obj\Debug\netcoreapp3.1\TryCatchAssignment2.genruntimeconfig.cache
